@@ -1,0 +1,24 @@
+{
+  "name": "discord-dev",
+  "version": "1.0.0",
+  "description": "Dit is een discord (nederlandse) bot voor de discord server GameCity",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "nodemon": "^2.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "derde",
+    "bot",
+    "discord",
+    "werk",
+    "nl"
+  ],
+  "author": "Dinand De Gamer",
+  "license": "ISC"
+}
